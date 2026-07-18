@@ -9,7 +9,7 @@
     <packageSourceUrl>https://github.com/jmcker/ChocolateyPackages/tree/main/published/infranview</packageSourceUrl>
     <projectUrl>https://www.irfanview.com/</projectUrl>
     <licenseUrl>https://www.irfanview.com/eula.htm</licenseUrl>
-    <iconUrl>https://rawcdn.githack.com/throthe/chocolatey-packages/COMMIT_SHA/icons/IrfanView_Logo2.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/throthe/chocolatey-packages/bc833be59d7eeef2ac845ca105fc1241fef9a747/icons/IrfanView_Logo2.png</iconUrl>
     <wikiUrl>https://en.wikipedia.org/wiki/IrfanView</wikiUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <tags>infranview infran image jpeg bmp png gif conversion</tags>
