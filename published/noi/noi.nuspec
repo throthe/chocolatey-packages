@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+
+    <id>noi</id>
+    <version>1.1.0</version>
+    <title>Noi</title>
+    <authors>lencx</authors>
+    <owners>Thomas Rothe (throthe)</owners>
+
+    <packageSourceUrl>https://github.com/throthe/ChocolateyPackages/tree/main/published/noi</packageSourceUrl>
+    <bugTrackerUrl>https://github.com/lencx/Noi/issues</bugTrackerUrl>
+    <docsUrl>https://github.com/lencx/Noi/blob/main/README.md</docsUrl>
+    <projectUrl>https://noib.app//</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/throthe/chocolatey-packages/9dd4feea9a8d9264927397019ee124fc15e6ed15/icons/noi.png</iconUrl>
+
+    <releaseNotes>
+      * Fix: Addressed several known issues and improved overall stability.
+      * Feat: Introduced the new noi CLI command, enabling you to control Noi via command-line tools like Claude Code, Codex, and Gemini CLI. More commands will be added over time to expand automation and control capabilities.
+    </releaseNotes>
+
+    <tags>noi ai windows application gemini copilot grok noi claude perplexity chatgpt qwen deepseek</tags>
+    <summary>AI client application with unified interface for multiple AI services</summary>
+    <description>Noi is a powerful AI client application designed to bring focus and efficiency to your AI workflows. It provides a unified interface for interacting with multiple AI services including Claude, Copilot, Gemini, Grok, ChatGPT, Perplexity, Qwen, and DeepSeek. Key features include multi-window management for parallel workspaces, session isolation for clean contexts, local-first data storage (history, prompts, settings), prompt management for organizing AI chats, built-in terminal for commands and scripts, noi CLI command for control via external tools, and multiple themes for customization.</description>
+
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
