@@ -1,3 +1,4 @@
 *.nupkg
 **/*.nupkg
 *.nuspec.bak
+develop/
